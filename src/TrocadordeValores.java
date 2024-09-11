@@ -1,5 +1,5 @@
 public class TrocadordeValores {
-    public static void main(String[] args) {
+    public static void main(String[] args){
         // Declarar um vetor de inteiros com 2 posições
         int[] vetor = new int[2];
 
